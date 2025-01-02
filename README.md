@@ -1,0 +1,1 @@
+n this project, SQL techniques have been applied to clean and transform Covid raw data, into structured and actionable data. Key tasks included handling missing values, eliminating duplicates, normalizing data, and optimizing queries for improved performance. The result was a reliable, well-organized dataset, ready for deeper analysis and informed decision-making
